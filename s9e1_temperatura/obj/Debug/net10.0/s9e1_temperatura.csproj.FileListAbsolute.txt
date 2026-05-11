@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\bin\Debug\net10.0\s9e1_temperatura.exe
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\bin\Debug\net10.0\s9e1_temperatura.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\bin\Debug\net10.0\s9e1_temperatura.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\bin\Debug\net10.0\s9e1_temperatura.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\bin\Debug\net10.0\s9e1_temperatura.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\refint\s9e1_temperatura.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\s9e1_temperatura.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e1_temperatura\obj\Debug\net10.0\ref\s9e1_temperatura.dll

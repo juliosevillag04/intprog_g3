@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\bin\Debug\net10.0\s9e2_tienda.exe
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\bin\Debug\net10.0\s9e2_tienda.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\bin\Debug\net10.0\s9e2_tienda.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\bin\Debug\net10.0\s9e2_tienda.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\bin\Debug\net10.0\s9e2_tienda.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\refint\s9e2_tienda.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\s9e2_tienda.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e2_tienda\obj\Debug\net10.0\ref\s9e2_tienda.dll

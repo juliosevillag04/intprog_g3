@@ -8,30 +8,18 @@
 //Mostrar cuántos días las ventas superaron 150.
 //Indicar la venta más baja registrada.
 Console.Clear();
-int num_ventas = -1;
+int num_ventas;
 
-while (num_ventas < 0)
+// Validar cantidad de ventas
+Console.Write("Número de ventas diarias: ");
+
+while (!int.TryParse(Console.ReadLine(), out num_ventas) || num_ventas < 0)
 {
-    try
-    {
-        Console.Write("Número de ventas diarias: ");
-        num_ventas = int.Parse(Console.ReadLine()!);
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine("Error. Ingrese un número entero válido.");
+    Console.ResetColor();
 
-        if (num_ventas < 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Error. Ingrese un número válido.");
-            Console.ResetColor();
-        }
-    }
-    catch (FormatException)
-    {
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("Error. Ingrese un número entero válido.");
-        Console.ResetColor();
-
-        num_ventas = -1;
-    }
+    Console.Write("Número de ventas diarias: ");
 }
 
 if (num_ventas == 0)
@@ -42,23 +30,44 @@ else
 {
     double[] ventas = new double[num_ventas];
     double sumaventas = 0;
+    int dias = 0;
 
     for (int i = 0; i < ventas.Length; i++)
     {
-        try
-        {
-            Console.Write($"Venta #{i + 1}: ");
-            ventas[i] = double.Parse(Console.ReadLine()!);
-            sumaventas += ventas[i];
-        }
-        catch (FormatException)
+        Console.Write($"Venta #{i + 1}: ");
+
+        while (!double.TryParse(Console.ReadLine(), out ventas[i]) || ventas[i] < 0)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Por favor ingrese un número válido");
-            i--;
+            Console.WriteLine("Por favor ingrese una venta válida. No puede ser negativa.");
             Console.ResetColor();
+
+            Console.Write($"Venta #{i + 1}: ");
+        }
+
+        if (ventas[i] > 150)
+        {
+            dias++;
+        }
+
+        sumaventas += ventas[i];
+    }
+
+    double ventabaja = ventas[0];
+
+    for (int i = 0; i < ventas.Length; i++)
+    {
+        if (ventas[i] < ventabaja)
+        {
+            ventabaja = ventas[i];
         }
     }
 
-    Console.WriteLine($"Total vendido: {sumaventas}");
+    Console.Clear();
+    Console.WriteLine("==================");
+    Console.WriteLine("RESUMEN DE VENTAS");
+    Console.WriteLine("==================");
+    Console.WriteLine($"Total vendido: C${sumaventas}");
+    Console.WriteLine($"Días de ventas de más de C$150: {dias}");
+    Console.WriteLine($"Venta más baja: C${ventabaja}");
 }

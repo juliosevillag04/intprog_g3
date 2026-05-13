@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\bin\Debug\net10.0\matriz1.exe
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\bin\Debug\net10.0\matriz1.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\bin\Debug\net10.0\matriz1.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\bin\Debug\net10.0\matriz1.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\bin\Debug\net10.0\matriz1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\refint\matriz1.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\matriz1.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\matriz1\obj\Debug\net10.0\ref\matriz1.dll

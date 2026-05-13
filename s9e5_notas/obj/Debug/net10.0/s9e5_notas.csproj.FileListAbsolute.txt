@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\bin\Debug\net10.0\s9e5_notas.exe
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\bin\Debug\net10.0\s9e5_notas.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\bin\Debug\net10.0\s9e5_notas.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\bin\Debug\net10.0\s9e5_notas.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\bin\Debug\net10.0\s9e5_notas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\refint\s9e5_notas.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\s9e5_notas.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e5_notas\obj\Debug\net10.0\ref\s9e5_notas.dll

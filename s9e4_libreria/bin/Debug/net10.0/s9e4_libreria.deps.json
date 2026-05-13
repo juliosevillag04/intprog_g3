@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "s9e4_libreria/1.0.0": {
+        "runtime": {
+          "s9e4_libreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s9e4_libreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

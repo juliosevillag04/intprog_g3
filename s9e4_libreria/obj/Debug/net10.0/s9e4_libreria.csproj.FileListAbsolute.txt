@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.sourcelink.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\bin\Debug\net10.0\s9e4_libreria.exe
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\bin\Debug\net10.0\s9e4_libreria.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\bin\Debug\net10.0\s9e4_libreria.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\bin\Debug\net10.0\s9e4_libreria.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\bin\Debug\net10.0\s9e4_libreria.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\refint\s9e4_libreria.dll
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\s9e4_libreria.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\Ingeniería de Sistemas\SIS Semestre 1\CNU0125 - Introducción a la Programación\cnu0125_s7\sesion21\s9e4_libreria\obj\Debug\net10.0\ref\s9e4_libreria.dll
